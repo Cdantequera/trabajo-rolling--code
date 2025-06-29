@@ -4,3 +4,9 @@
     overflow: hidden;
     border-radius: 50%;
 }
+
+.daniel{
+    box-shadow: 22px 21px 36px 0px rgba(247,247,247,0.75);
+-webkit-box-shadow: 22px 21px 36px 0px rgba(247,247,247,0.75);
+-moz-box-shadow: 22px 21px 36px 0px rgba(247,247,247,0.75);
+}
